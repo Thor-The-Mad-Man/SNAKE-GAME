@@ -1,1 +1,2 @@
-# SNAKE-GAME
+This is the snake game that is present in very old keypad mobile phones. The game created is just the first level/ classic level which has no boundaries.
+This game is created using graphics.h header file that might not be available in many of the modern C/C++ compilers. It uses random() and randomize() functions which is only present in Borland Compilers like TurboC. Please run this on TurboC to get the required output.
